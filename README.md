@@ -1,5 +1,23 @@
 # C Programming Project Submission
 
+
+# To run :
+
+```
+gcc -o main main.c -lsqlite3 -lssl -lcrypto -lqrencode;./main
+```
+
+# Dependencies :
+  SQLite3
+  OpenSS
+
+
+# Note :
+
+Have used unistd.h & stdlib.h so change accordingly to favour you OS.
+
+
+
 Welcome to the **C Programming Project Repository (081BCT)**. Each team is required to submit their project by following the instructions below.
 
 ## 📌 Submission Instructions
